@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding:0;
+}
+header {
+    max-width: 100%;
+    min-width: 40%;
+    height: 100px;
+    background-color: #275b85;
+    text-align: center;
+}
+main {
+    height: 400px;
+}
+nav {
+    height: 400px;
+    width: 25%;
+    background-color: #5298d1;
+    float: left;
+    overflow: hidden;
+}
+article {
+    height: 400px;
+    width: 50%;
+    background-color: #7ec5ff;
+    text-align: center;
+    overflow: hidden;
+}
+aside {
+    height: 400px;
+    width: 25%;
+    background-color: #855408;
+    float: right;
+    overflow: hidden;
+    text-align: center;
+}
+footer {
+    max-width: 100%;
+    min-width: 40%;
+    height: 100px;
+    background-color: #d19f52;
+    text-align: right;
+}
